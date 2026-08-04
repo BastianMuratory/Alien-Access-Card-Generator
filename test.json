@@ -1,0 +1,132 @@
+{
+  "annee": 2183,
+
+  "textes_compagnies": {
+    "seegson": {
+      "propriete": "PROPRIÉTÉ DE SEEGSON CORP. — RETOUR EXIGÉ AU BUREAU 12"
+    }
+  },
+
+  "personnages": [
+    {
+      "compagnie": "weyland-yutani",
+      "nom": "NAME-1",
+      "prenom": "SURNAME-1",
+      "profession": "PROFESSION",
+      "username": "USERNAME",
+      "password": "PASSWORD",
+      "flavor": "FLAVOR TEXT",
+      "photo": "",
+      "logo_grand": "logos/weyland.png",
+      "logo_petit": "logos/weyland.png",
+      "habilitation": 3,
+      "id": "ID-111111",
+      "division": "DIVISION",
+      "site": "LOCATION",
+      "groupe_sanguin": "AB+",
+      "emis": "01.01.2183",
+      "exp": "31.12.2188",
+      "serie": "SERIE-999999",
+      "textes": {
+        "raison": "RAISON-HERE",
+        "entete": "ENTETE-HERE",
+        "sous_entete": "SOUS-ENTETE-HERE",
+        "code_titre": "CODE-TITRE-HERE",
+        "propriete": "PROPRIETE-HERE",
+        "micro": "MICRO-HERE",
+        "mrz_prefixe": "MRZ",
+        "l_habilitation": "HAB {n} / {site}"
+      }
+    },
+    {
+      "compagnie": "seegson",
+      "nom": "NAME-2",
+      "prenom": "SURNAME-2",
+      "profession": "PROFESSION",
+      "username": "USERNAME",
+      "password": "PASSWORD",
+      "flavor": "FLAVOR TEXT",
+      "photo": "",
+      "logo_grand": "logos/seegson.png",
+      "logo_petit": "logos/seegson.png",
+      "habilitation": 3,
+      "id": "ID-111111",
+      "division": "DIVISION",
+      "site": "LOCATION",
+      "groupe_sanguin": "AB+",
+      "emis": "01.01.2183",
+      "exp": "31.12.2188",
+      "serie": "SERIE-999999",
+      "textes": {
+        "raison": "RAISON-HERE",
+        "entete": "ENTETE-HERE",
+        "sous_entete": "SOUS-ENTETE-HERE",
+        "code_titre": "CODE-TITRE-HERE",
+        "propriete": "PROPRIETE-HERE",
+        "micro": "MICRO-HERE",
+        "mrz_prefixe": "MRZ",
+        "l_habilitation": "HAB {n} / {site}"
+      }
+    },
+    {
+      "compagnie": "prodigy",
+      "nom": "NAME-3",
+      "prenom": "SURNAME-3",
+      "profession": "PROFESSION",
+      "username": "USERNAME",
+      "password": "PASSWORD",
+      "flavor": "FLAVOR TEXT",
+      "photo": "",
+      "logo_grand": "logos/prodigy.png",
+      "logo_petit": "logos/prodigy.png",
+      "habilitation": 3,
+      "id": "ID-111111",
+      "division": "DIVISION",
+      "site": "LOCATION",
+      "groupe_sanguin": "AB+",
+      "emis": "01.01.2183",
+      "exp": "31.12.2188",
+      "serie": "SERIE-999999",
+      "textes": {
+        "raison": "RAISON-HERE",
+        "entete": "ENTETE-HERE",
+        "sous_entete": "SOUS-ENTETE-HERE",
+        "code_titre": "CODE-TITRE-HERE",
+        "propriete": "PROPRIETE-HERE",
+        "micro": "MICRO-HERE",
+        "mrz_prefixe": "MRZ",
+        "l_habilitation": "HAB {n} / {site}"
+      }
+    },
+    {
+      "compagnie": "lasalle",
+      "nom": "NAME-4",
+      "prenom": "SURNAME-4",
+      "profession": "PROFESSION",
+      "username": "USERNAME",
+      "password": "PASSWORD",
+      "flavor": "FLAVOR TEXT",
+      "photo": "",
+      "logo_grand": "logos/lasalle.png",
+      "logo_petit": "logos/lasalle.png",
+      "habilitation": 3,
+      "id": "ID-111111",
+      "division": "DIVISION",
+      "site": "LOCATION",
+      "groupe_sanguin": "AB+",
+      "emis": "01.01.2183",
+      "exp": "31.12.2188",
+      "serie": "SERIE-999999",
+      "textes": {
+        "raison": "RAISON-HERE",
+        "entete": "ENTETE-HERE",
+        "sous_entete": "SOUS-ENTETE-HERE",
+        "code_titre": "CODE-TITRE-HERE",
+        "propriete": "PROPRIETE-HERE",
+        "micro": "MICRO-HERE",
+        "mrz_prefixe": "MRZ",
+        "l_habilitation": "HAB {n} / {site}"
+      }
+    }
+  ]
+}
